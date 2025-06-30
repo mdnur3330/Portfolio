@@ -9,6 +9,7 @@ import Hero from "../Pages/Hero";
 import Project from "../Pages/Project";
 import PlantCare from "../MyProject/PlantCare";
 import HistoricalArtifacts from "../MyProject/HistoricalArtifacts";
+import NotFound from "../Pages/PageNotFound";
 
 export const router = createBrowserRouter([
     {path:'/',
@@ -51,5 +52,9 @@ export const router = createBrowserRouter([
 
          
         ]
+    },
+    {
+        path: '/*',
+        element: <NotFound></NotFound>
     }
 ])
