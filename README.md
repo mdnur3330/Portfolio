@@ -6,7 +6,7 @@ Here, I showcase my projects, skills, experiences, and contact information in a 
 
 ## 🌐 Live Preview
 
-🔗 https://enchanting-cassata-b38d38.netlify.app/
+🔗https://zingy-alpaca-0e447b.netlify.app/
 
 ## 📸 Screenshots
 
